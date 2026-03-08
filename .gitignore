@@ -1,0 +1,19 @@
+# environment
+.env
+
+# config credential
+config.py
+
+# google credential
+lilis_key.json
+
+# python cache
+__pycache__/
+*.pyc
+
+# logs
+*.log
+
+# local database
+*.json
+*.csv
